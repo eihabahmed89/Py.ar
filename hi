@@ -1,5 +1,5 @@
 print ('hi')
-print 9('124\n')
+print ('124\n')
 print (''' this is new line
 Regrds)
   
